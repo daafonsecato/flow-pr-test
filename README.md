@@ -24,7 +24,7 @@ After creating a new repository on GitHub called test-repo (Use your own usernam
 
 ```
 git remote
-git remote add origin https://github.com/daafonsecato/test-repo.git
+git remote add origin https://github.com/daafonsecato/flow-pr-test.git
 git remote
 git remote -v
 git push -u origin master
